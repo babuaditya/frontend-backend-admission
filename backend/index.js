@@ -4,7 +4,7 @@ const cors=require('cors')
 
 // Create an Express application
 const app = express();
-const port = 3000; // Port for the server to listen on
+const port = 5008; // Port for the server to listen on
 app.use(cors())
 
 // MySQL connection details
